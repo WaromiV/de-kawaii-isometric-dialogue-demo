@@ -1,0 +1,38 @@
+Voice-over static file manifest
+Format: <voice_id> <filename> <text>
+
+EXAVITQu4vr4xnSDxMaL 97e34d2e4295c1af60b7e4b5257d88092f3069a9.mp3 "Detective. If you're here for money, everyone is. Make it fast before my luck turns."
+EXAVITQu4vr4xnSDxMaL cd24520b53e4547f776dde9679bfaa526430c819.mp3 "Fine. Twelve now. You get kindness, not miracles."
+EXAVITQu4vr4xnSDxMaL 42b3c687c452b1b0cde5fd5902b371faa2729d44.mp3 "That voice works on tourists, not me."
+EXAVITQu4vr4xnSDxMaL a3dd6cd2641e77ec53e9430cb0a0826b52b957fb.mp3 "My kid needs medicine. I'm drowning already. Fifteen and we are strangers, yes?"
+EXAVITQu4vr4xnSDxMaL 6be95e3d1fb96fd1fd85f1b9efede19636a9d2f1.mp3 "Don't pretend you know me."
+EXAVITQu4vr4xnSDxMaL 6d0a6a9c2189fed7efb2cb5321b7a63fa2c868a3.mp3 "You read too much, detective. Eighteen for your silence, then we are done."
+EXAVITQu4vr4xnSDxMaL 92b2a061033e82dd5a5b0cb33de6590faad96ebe.mp3 "You bluff like a bookkeeper."
+JBFqnCBsd6RMkjVDRZzb 5dc7490ea5416b12a1a07520420f9ed17e6b5349.mp3 [Empathy] His hand trembles on the cigarette. He is scared, not smug.
+JBFqnCBsd6RMkjVDRZzb 7d59779990d5b7b9597af1a594d992e276c0c12b.mp3 [Logic] A debt ledger peeks from his coat. He has numbers to hide.
+JBFqnCBsd6RMkjVDRZzb 8edf7549bd709b12c5cdd914074f4cf04349c999.mp3 [Instinct] Push too hard and he will shout for dockers. Keep it precise.
+JBFqnCBsd6RMkjVDRZzb 9d555448c0e5e350eec31cefbe5f00dfc8b79c6a.mp3 You soften your tone and he listens.
+JBFqnCBsd6RMkjVDRZzb 5e8b3c88b58c64fc561e051524f8e386da3f961d.mp3 Your request sounds like a script he's heard before.
+JBFqnCBsd6RMkjVDRZzb a70751896fea557e1d11f2e15c0a11730172bf40.mp3 You mirror his panic and the wall cracks.
+JBFqnCBsd6RMkjVDRZzb 00fb50d3f20ad6caa96a68cbbf2bafa045151b90.mp3 He tightens up. Wrong note.
+JBFqnCBsd6RMkjVDRZzb adefae60015cd78d571e53fc2e559d89c083e76b.mp3 His eyes cut to your badge, then to his coat pocket.
+JBFqnCBsd6RMkjVDRZzb b23b4112e25a8b91c78e4e2e4a76d9b89b091f9a.mp3 He calls your bluff on paper and ink.
+JBFqnCBsd6RMkjVDRZzb f0a476496b5d8b55bcaa8b975228670a18609320.mp3 He drops ten reals with a curse and tells you to vanish.
+JBFqnCBsd6RMkjVDRZzb 292d0d2eaf52ff3d04f13d03d7f5618a31b9f84c.mp3 He shouts for backup and you walk before this turns into a scene.
+JBFqnCBsd6RMkjVDRZzb e92e5e6816f00a001e481949f3ed29a1a2e641af.mp3 Heads. He pays with shaking hands and bitter respect.
+JBFqnCBsd6RMkjVDRZzb a80f63eb226ad6855c2a8500788ac754cde513d2.mp3 Tails. The city laughs softly behind you.
+JBFqnCBsd6RMkjVDRZzb 7f8141a4726cb5370e16e8eb523086d956fbf5f4.mp3 You step back from the stall with empty pockets.
+JBFqnCBsd6RMkjVDRZzb 274cd770960f1e7e124eef47c4197e9701378369.mp3 You pocket twelve reals. Not victory, but rent breathes.
+JBFqnCBsd6RMkjVDRZzb 77d13e61a71769d1d1b9b83efe678aaf0f421996.mp3 You lean in and he folds. Twenty reals, counted twice.
+JBFqnCBsd6RMkjVDRZzb 390a17b9a738bb5af2119d78b5f41bd9d34d1e81.mp3 He snorts and flicks six reals at your shoes.
+JBFqnCBsd6RMkjVDRZzb 53220166cd332f1e16306b0c04fe02902f4e9e99.mp3 You leave with fifteen and a promise you might keep.
+JBFqnCBsd6RMkjVDRZzb 5f213424672ac8289320c884a3c1131e9eed1b63.mp3 You squeeze a little harder: eighteen reals.
+JBFqnCBsd6RMkjVDRZzb df8e05ec350a34c4c243dffaee65b5750e03db82.mp3 He recoils. Ten reals and the door shuts.
+JBFqnCBsd6RMkjVDRZzb b87522abc2fa4494c777fd7728966f54aeeed9e4.mp3 You trade quiet for eighteen clean notes.
+JBFqnCBsd6RMkjVDRZzb 94e248b0ff44ef07359b131d10c10d7583f1e620.mp3 He caves under pressure. Twenty-five bought in fear.
+JBFqnCBsd6RMkjVDRZzb 75b7f400732cc78bb49c6d0c9084adf85210ffbb.mp3 You overplay it. He throws eight and spits on your shoes.
+JBFqnCBsd6RMkjVDRZzb c212b6e2d794fcfaa091b711a492ea0c0ad76b25.mp3 Big score. Dirty victory.
+JBFqnCBsd6RMkjVDRZzb ac6df3345d9bdcd3cc67078e749f68e9425c3661.mp3 Enough to breathe for a night.
+JBFqnCBsd6RMkjVDRZzb fab0077ac5fdb77e626f29229dd7f1299013af8f.mp3 Loose change and bruised pride.
+JBFqnCBsd6RMkjVDRZzb 86348a3e59bf2ad9cca1e018b99e77d11142acd7.mp3 Empty pockets. The city wins this round.
+JBFqnCBsd6RMkjVDRZzb 13ae6fd97bdd18ee0c4105172555e0fa8f7aae2f.mp3 The conversation is over.

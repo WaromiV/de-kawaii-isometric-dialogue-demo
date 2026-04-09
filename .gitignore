@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# local secrets
+.env
+
+# generated voice-over caches
+assets/audio/tts_cache/
+assets/audio/tts_static/*.failed

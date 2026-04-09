@@ -1,0 +1,9 @@
+Background music used by the demo:
+
+- Title: At the end of hope (loop)
+- Author: Emma_MA
+- Source page: https://opengameart.org/content/at-the-end-of-hope
+- Direct file URL: https://opengameart.org/sites/default/files/at_the_end_of_hope_loop.wav
+- License: CC0 (public domain)
+
+The OpenGameArt page states attribution is not necessary.
