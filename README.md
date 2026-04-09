@@ -1,6 +1,9 @@
 # Isometric Kawaii-Horror Dialogue Demo (Pygame)
 
 A polished vertical slice inspired by Disco-like checks, built as a small narrative RPG prototype.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/bdef78a1-8126-466d-aeff-9581ad707fef" />
+<img width="2166" height="1214" alt="image" src="https://github.com/user-attachments/assets/c892846e-dd39-44ac-90dd-1def16d13d68" />
+<img width="2162" height="1220" alt="image" src="https://github.com/user-attachments/assets/55261e6f-bf15-45f2-b3e1-a7b7ebb4f014" />
 
 ## Features
 
